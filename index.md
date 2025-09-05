@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Anoushka Chakravarty's First CS193 Homework
+
+Here are some of the things I love about CS193 :)
+- Seeing so many people around me
+- The comfy Hiler Theatre
+- Learning about basics that will help me in CS without making me feel stressed
+- Amazing TAs teaching us!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
